@@ -229,7 +229,7 @@ If you contribute cultural evaluation cases, please include context about the in
 
 ## License
 
-This project is intended to be released as open source. Recommended license: MIT, Apache-2.0, or another license appropriate for your organization.
+This project is intended to be released as open source. Curated by: Layermind.AI and Participatory Citizen Lab, Inc.
 
 ## Disclaimer
 
