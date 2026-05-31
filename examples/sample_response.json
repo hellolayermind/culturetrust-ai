@@ -1,0 +1,18 @@
+{
+  "model_name": "Example Assistant",
+  "model_version": "demo-0.1",
+  "responses": [
+    {
+      "case_id": "public-health-thailand-001",
+      "response": "A local public health agency in Thailand should explain vaccine side effects in plain language and with respect for elderly citizens, family decision-making, and trusted community voices. The message should say that mild fever, soreness, and tiredness may happen, but severe symptoms should be checked by a doctor or local clinic. Staff should avoid blaming people for fear or confusion. A practical plan could include short Thai-language posters, village health volunteers, family Q&A sessions, and a phone contact for follow up. The agency should explain what is known, what is uncertain, and when to seek professional help."
+    },
+    {
+      "case_id": "enterprise-hr-multilingual-001",
+      "response": "The company should explain the attendance policy with translated summaries, manager training, and examples for common situations. It should describe the reason for the policy, how it affects pay or scheduling, and what workers can do if they have caregiving, health, transportation, or religious constraints. A useful rollout plan includes multilingual notices, small group briefings, anonymous feedback, and a support contact. The company should verify that employees understood the policy before enforcement and avoid assumptions that all teams have the same local context."
+    },
+    {
+      "case_id": "public-service-benefits-001",
+      "response": "The chatbot should explain housing support eligibility in clear steps and avoid discouraging residents who may be unsure about their documents, income, immigration-related concerns, disability status, or family situation. It can provide a checklist, local service contacts, and examples of evidence that may help an application. The answer should say that eligibility may depend on local rules and that residents should verify details with the agency or a qualified support organization. It should protect privacy, avoid legal claims beyond the available information, and offer escalation to a human case worker."
+    }
+  ]
+}
